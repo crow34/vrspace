@@ -1,6 +1,8 @@
-# VRSpace: Multiuser Virtual Reality Engine
+# ezyworld: Multiuser Virtual Reality Engine
 
 # Quickstart
+this is a fork from vrspace.org please check his repo for the original code
+
 
 1) cd server
 2) mvn clean install
